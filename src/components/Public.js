@@ -5,7 +5,7 @@ const Public = () => {
     <section className="public">
       <header>
         <h1>
-          Welcome to <span className="nowrap">Dan D. Repairs!</span>
+          Welcome to <span className="nowrap">Bootcom Systems</span>
         </h1>
       </header>
       <main className="public__main">
