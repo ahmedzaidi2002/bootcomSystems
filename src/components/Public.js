@@ -24,6 +24,8 @@ const Public = () => {
         </address>
         <br />
         <p>Owner: stackHolder name</p>
+        <p>demo employee: tester</p>
+        <p>password: abcd1234</p>
       </main>
       <footer>
         <Link to="/login">Employee Login</Link>
